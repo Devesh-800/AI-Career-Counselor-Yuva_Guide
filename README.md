@@ -8,8 +8,10 @@ This project is a smart AI agent built using IBM watsonx.ai Agent Lab. It provid
 
 ## 📂 Files Included
 - YuvaGuide_Presentation.pptx
-- Reference PDFs
+- Reference PDF
+- Problem statements.pdf
 - IBM Certifications
+- Result screenshots
 
 ## 👤 Author
 **Devesh Sain**  
